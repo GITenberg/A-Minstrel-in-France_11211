@@ -1,0 +1,28 @@
+_repo: A-Minstrel-in-France_11211
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lauder, Harry, Sir
+    birthdate: 1870
+    deathdate: 1950
+    gutenberg_agent_id: '4098'
+    url: http://www.gutenberg.org/2009/agents/4098
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Lauder
+description: ''
+gutenberg_bookshelf:
+- World War I
+- Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11211'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Personal narratives'
+- !lcc 'D501'
+- GITenberg
+title: A Minstrel in France
+url: http://www.gutenberg.org/ebooks/11211
